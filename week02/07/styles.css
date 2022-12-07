@@ -1,0 +1,21 @@
+body {
+    width: 70%;
+    padding-top: 3rem;
+    margin: 0 auto;
+
+}
+
+div {
+    margin: 30px;
+}
+
+div:first-letter {
+    font-family: cursive;
+    font-size: 2rem;
+    line-height: .5;
+}
+
+div:first-line {
+    background-color: gainsboro;
+    font-weight: 600;
+}
