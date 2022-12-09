@@ -1,0 +1,60 @@
+
+html {
+	background-color: yellow;
+	font-family:'Times New Roman', Times, serif;
+    
+    }
+    
+
+    body {
+	width: 60%;
+	margin: 20px auto;
+	background-color: yellow;
+	height:auto;
+    }
+    
+
+    div,h1,p {
+	color: blue;
+	width: auto;
+	border: 10px groove silver;
+	margin: 0 auto;
+	text-align: center;
+	line-height: 1.5;
+    }
+    
+
+    h1 {
+	color: violet;
+	font-style: italic;
+	font-weight: bold;
+    }
+    
+
+    p {
+	color: purple;
+	font-weight: bold;
+	font-size: 5rem;
+	border: 10px solid black;
+	line-height: 120px;
+    }
+
+    .elementc {
+	color: pink;
+	font-size: 4rem;
+    }
+
+    
+    #elementid {
+	color: grey;
+    
+    }
+    
+    div p   {
+	background-color: grey;
+    }
+    
+    div > h1  {
+	background-color: blue;
+    }
+    
