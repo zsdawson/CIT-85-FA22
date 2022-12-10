@@ -1,0 +1,49 @@
+p {
+	font-size: 30px;
+	font-family:serif;
+    }
+    
+    div {
+	font-size: 40px;
+	font-family:sans-serif;
+    }
+    
+
+    .googlefontnormal {
+	font-family: 'Lobster Two', cursive;
+    }
+    
+    .googlefontbold {
+	font-family: 'Lobster Two', cursive;
+	font-weight: 900;
+    }
+    
+    .transform {
+	text-transform: uppercase;
+	font-style: italic;
+    }
+    
+    .shortphrasespacing {
+	letter-spacing: 2px;
+    }
+    
+    h1  {
+	text-shadow: 2px 3px 2px red;
+    }
+    
+    a   {
+	text-decoration: none;
+    
+    }
+    
+    a:hover {
+	text-decoration: underline;
+    }
+    
+    h2  {
+	text-decoration: line-through;
+    }
+    
+    p  {
+	text-indent: 60px;
+    }
