@@ -1,0 +1,33 @@
+html {
+    border: 3px solid rgb(197, 24, 24);
+    box-sizing:border-box;
+}
+
+body {
+    width: 90%;
+    border: 3px solid black;
+}
+
+div {
+    border: 3px solid rgb(19, 19, 219);
+    color: rgb(93, 93, 215);
+
+}
+
+#one  {
+    position: relative;
+    width: 800px;
+    height: 500px;
+    background-color: rgb(137, 135, 135);
+}
+
+
+#two {
+    position: absolute;
+    top: 250px;
+    right: 40px;
+    width: 250px;
+    height: 250px;
+    background-color: rgb(17, 58, 129);
+    border: 6px groove rgb(185, 136, 22);
+}
