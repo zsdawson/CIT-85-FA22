@@ -1,0 +1,23 @@
+
+body {
+    display: flex;
+
+
+}
+
+div {
+    height:100px;
+    flex-basis: 400px;
+    border: 2px solid black;
+
+
+
+}
+
+.flex1 {
+    flex-grow:1;
+}
+
+.flex2 {
+    flex-grow:2;
+}
