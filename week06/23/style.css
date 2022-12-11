@@ -1,0 +1,34 @@
+
+
+body {
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+    padding: 0;
+    margin: 0 auto;
+}
+
+.c1, .c2, .c3, .c4 {
+    width: 100%;
+    min-height: 150px;
+}
+
+.c1 {
+    color: white;
+     background-color: #002d68;
+}
+
+.c2 {
+    color: white;
+    background-color: #0062d2;
+}
+
+.c3 {
+    color: white;
+    background-color: #b2ccec;
+}
+
+.c4 {
+    border: 2px solid red;
+    box-sizing: border-box;
+}
