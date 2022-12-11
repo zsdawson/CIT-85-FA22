@@ -1,0 +1,48 @@
+
+body {
+    display: flex;
+    flex-flow: row wrap;
+    border: 2px dotted red;
+}
+
+div {
+    box-sizing: border-box;
+    height: 75px;
+    text-align: center;
+    line-height: 75px;
+    font-weight: bold;
+
+}
+
+
+.orange {
+    width: 100%;
+    background-color: #f46430;
+    border: 1px solid black;
+
+}
+
+.blue {
+    background-color: #8ee6e9;
+    border: 1px solid black;
+    width: 60%;
+
+}
+
+.green {
+    background-color: #8fed9a;
+    border: 1px solid black;
+    width: 40%;
+}
+
+.yellow{
+    background-color: #e3ec2f;
+    border: 1px solid black;
+    width: 50%;
+}
+.purple {
+    background-color: #8358e1;
+    border: 1px solid black;
+    width: 50%;
+}
+
