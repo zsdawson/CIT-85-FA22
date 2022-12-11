@@ -1,0 +1,10 @@
+
+.c1, .c2, .c3, .c4, .c5 {
+
+    border: 1px solid black;
+    height: 100px;
+    width:100%;
+    text-align: center;
+    line-height: 125px;
+    box-sizing: border-box;
+}
