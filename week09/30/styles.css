@@ -1,0 +1,26 @@
+div {
+    border-radius: 5px;
+    color: white;
+    font-size: 2rem;
+    box-sizing:border-box;
+}
+
+#one  {
+    height: 3800px;
+    width: 60%;
+    background-color: rgb(83, 112, 217);
+    border: 6px groove rgb(234, 196, 99);
+}
+
+#two {
+    position:fixed;
+    bottom: 20px;
+    left:30%;
+    height: 75px;
+    width: 30%;
+    background-color:rgba(4, 4, 4, 0);
+    border: 6px groove rgb(216, 191, 158);
+
+
+
+}
